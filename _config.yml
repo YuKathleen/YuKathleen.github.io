@@ -1,0 +1,43 @@
+﻿sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "assets/img"
+    values:
+      image: true
+
+title: YuKathleen and yzx23333
+name: YuKathleen or yzx23333
+description: 啊新页面还在测试中，过会再来看看吧。
+
+github: false
+rss: false
+email: mailto:yzx23333@pm.me
+copyright_time: 2020
+show_excerpt: true
+url: https://kathleen233.xyz
+
+plugins:
+  - rouge
+  - kramdown
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+
+exclude:
+  - script
+  - docs
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+# theme: jekyll-theme-minimalism
+remote_theme: showzeng/Minimalism
