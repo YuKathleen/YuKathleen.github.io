@@ -41,4 +41,4 @@ exclude:
   - Gemfile.lock
 
 # theme: jekyll-theme-minimalism
-remote_theme: showzeng/Minimalism
+remote_theme: YuKathleen/YuKathleen.github.io
