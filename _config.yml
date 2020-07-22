@@ -24,7 +24,7 @@ email: mailto:yzx23333@pm.me
 copyright_time: 2020
 show_excerpt: true
 url: https://kathleen233.xyz
-favicon:https://raw.githubusercontent.com/YuKathleen/YuKathleen.github.io/master/assets/img/avatar.webp
+favicon: https://raw.githubusercontent.com/YuKathleen/YuKathleen.github.io/master/assets/img/avatar.webp
 
 plugins:
   - rouge
