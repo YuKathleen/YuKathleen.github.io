@@ -16,14 +16,13 @@ defaults:
 
 title: YuKathleen and yzx23333
 name: YuKathleen and yzx23333
-description: 啊新页面还在测试中，过会再来看看吧。（可能没变化www）
+description: 啊这个站暂时无用了。就当备用站好了
 
 github: false
 rss: false
 email: mailto:yzx23333@pm.me
 copyright_time: 2020
 show_excerpt: true
-url: https://kathleen233.xyz
 avatar: https://raw.githubusercontent.com/YuKathleen/YuKathleen.github.io/master/assets/img/avatar.webp
 
 plugins:
