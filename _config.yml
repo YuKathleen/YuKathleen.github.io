@@ -23,7 +23,7 @@ rss: false
 email: mailto:yzx23333@pm.me
 copyright_time: 2020
 show_excerpt: true
-avatar: https://raw.githubusercontent.com/YuKathleen/YuKathleen.github.io/master/assets/img/avatar.webp
+#avatar: https://raw.githubusercontent.com/YuKathleen/YuKathleen.github.io/master/assets/img/avatar.webp
 
 plugins:
   - rouge
