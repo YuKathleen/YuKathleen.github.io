@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-minimalism"
-  spec.version       = "0.1.13"
+  spec.name          = "jekyll-theme-minimalism-yzx23333"
+  spec.version       = "0.1.15"
   spec.authors       = ["showzeng"]
-  spec.email         = ["kingstageshow@gmail.com"]
+  spec.email         = ["yzx23333@pm.me"]
 
   spec.summary       = "Minimalism is a jekyll theme for minimalist"
   spec.homepage      = "https://github.com/showzeng/minimalism"
